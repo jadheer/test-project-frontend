@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <h1>React App newly updated with vite hihi</h1>
+      <h1>React App newly updated with vite hihi new updated</h1>
       <p>{data}</p>
     </div>
   )
